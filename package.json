@@ -1,0 +1,23 @@
+{
+  "name": "1.js",
+  "version": "1.0.0",
+  "description": "constant 1",
+  "main": "1.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clown-computing/1.js.git"
+  },
+  "keywords": [
+    "1",
+    "constant"
+  ],
+  "author": "clown-cto (CTO of clown-computing)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/clown-computing/1.js/issues"
+  },
+  "homepage": "https://github.com/clown-computing/1.js#readme"
+}
